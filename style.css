@@ -1,0 +1,15 @@
+
+/* unuversal - all elements*/
+* {
+	font-family: "Roboto", sans-serif;
+}
+/*type - select particular tags*/
+
+h1,h2 {
+	font-family: "Montserrat", sans-serif;
+}
+
+img {
+	height: 250px;
+	width: 350px;
+}
